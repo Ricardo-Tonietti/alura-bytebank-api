@@ -11,6 +11,7 @@ public class ApiResponseMessage {
     public static final int INFO = 3;
     public static final int OK = 4;
     public static final int TOO_BUSY = 5;
+    
 
     int code;
     String type;
